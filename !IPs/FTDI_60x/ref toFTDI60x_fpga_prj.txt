@@ -1,0 +1,4 @@
+mst_fifo_ctl.sv - тут посути управляетсмя переключение ЛуПБэг или Память внутреняя
+
+This module controls internal FIFOs read/write operation
+It is written for specific case of master FIFO loopback 
